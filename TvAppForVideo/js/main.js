@@ -39,14 +39,7 @@ $(document).ready(function(){
 			 carousel_array.push(myArr.carousel[i]);
 			console.log(carousel_array[i].image_url.promo_carousel);
 			}
-		 
-			 
      }
-	
-		 
-	 
-	 
-	 
 	
 	//console.log(myArr[0]);
 });
